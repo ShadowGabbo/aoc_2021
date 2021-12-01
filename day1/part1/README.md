@@ -1,1 +1,1 @@
-Part 1 of aoc_2021
+Part 1, day 1, aoc 2021
